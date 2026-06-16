@@ -60,16 +60,6 @@ mission: Engineering scalable web experiences from the ground up
 
 ---
 
-## `0x04` // ACTIVITY_LOG.bat
-
-<div align="center">
-
-![Snake animation](https://github.com/ikhtishamkhan/ikhtishamkhan/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 ## `0x05` // CONNECT.sh
 
 <div align="center">
