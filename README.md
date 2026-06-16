@@ -5,7 +5,7 @@
 ```text
 ┌───────────────────────────────────────────────┐
 │ SYSTEM STATUS: ONLINE                         │
-│ USER: YOUR_NAME                               │
+│ USER: Ikhtisham Khan                          │
 │ ROLE: FULL STACK WEB DEVELOPER                │
 │ NETWORK: GLOBAL                               │
 └───────────────────────────────────────────────┘
@@ -14,7 +14,7 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: Your Name
+name: Ikhtisham Kham
 role: Web Developer
 focus:
   - Frontend Development
